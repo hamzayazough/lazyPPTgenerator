@@ -14,7 +14,7 @@ Once the script detects a new slide number, it takes a screenshot of the specifi
 - **Interactive Region Selection**: Select the on-screen area where the slide number appears and the area to capture for each slide.
 - **OCR Integration**: Uses Tesseract OCR via pytesseract to detect the slide number and avoid duplicates
 - **Automated PowerPoint Creation**: Inserts each captured slide into a new PowerPoint file and saves it in your Downloads folder.
-- **Manual Exit**: Press **Ctrl+C** to stop the capture loop whenever you want.
+- **Manual Exit**: Press **Ctrl+C** to stop the capture loop whenever you want, or exit automatically when Zoom is no longer running.
 
 ---
 
